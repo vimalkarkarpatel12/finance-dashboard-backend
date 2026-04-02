@@ -205,32 +205,6 @@ Authorization: Bearer <your_token>
   2. Login → get JWT token
   3. Use token in secured APIs
 
----
-
-## 📌 Assumptions
-
-* Soft delete is used instead of permanent deletion
-* Monthly trends are based on record creation date
-* Role-based access enforced via Spring Security
-
----
-
-## 🎯 Evaluation Highlights
-
-✔ Clean architecture (Controller → Service → Repository)
-✔ Role-based access control
-✔ Efficient aggregation queries
-✔ Proper validation & error handling
-✔ Scalable and maintainable design
-
----
-
-## 🚀 Future Improvements
-
-* Swagger API documentation
-* Unit & integration testing
-* Rate limiting
-* Advanced analytics
 
 ---
 
