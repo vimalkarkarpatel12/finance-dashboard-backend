@@ -102,7 +102,7 @@ com.finance.dashboard
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/finance-dashboard.git
+git clone https://github.com/vimalkarkarpatel12/finance-dashboard-backend.git
 cd finance-dashboard
 ```
 
